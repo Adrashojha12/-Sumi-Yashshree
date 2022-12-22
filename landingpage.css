@@ -1,0 +1,274 @@
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap'); 
+
+ body{
+    max-width: 100%;
+    overflow-x: hidden;
+    }
+.navbar {
+    background: #000000
+  }
+  
+  .navbar{
+    background-color:#1BBC9B;
+    opacity: 1;
+  }
+  .collapse{
+      margin-left: 280px;
+  }
+  .nav-item{
+    font-family: 'Open Sans', sans-serif;
+      padding-left: 30px;
+      white-space: nowrap;
+      font-size: 16px;
+      font-weight: 700;
+      line-height: 1.875;
+      text-transform: none;   
+  }
+  .btn:not(:disabled):not(.disabled){
+    font-family: 'Open Sans', sans-serif;
+      font-weight: 700;
+  }
+  .main-box{
+    background: url("image/backgrounds.jpg") no-repeat center top/cover;
+    height: 100vh;
+    width: 100vw;
+  }
+  .img-heading{
+    text-align: center;
+    padding-top: 311px;
+  }
+  .heading{
+    font-family: 'Open Sans', sans-serif;
+    color: #ffff;
+    font-size: 38px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 1px;
+  }
+  .background-2{
+     background: url("image/background-2.jpg") no-repeat center top/cover;
+    height: 100vh;
+    width: 100vw;
+  }
+  .img-heading-2{
+    text-align: right;
+    padding-top: 311px;
+  }
+  .heading-2{
+    color: #333333;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 38px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 48px;
+  }
+  .lorem{
+    color: #666666;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    padding-top: 20px;
+  }
+  .buttons{
+    padding-right: 90px;
+  }
+  .background-3{
+    background: url("image/background-3.jpg") no-repeat center top/cover;
+   height: 100vh;
+   width: 100vw;
+ }
+ .img-heading-3{
+    text-align: center;
+    padding-top: 422px;
+ }
+ 
+ .heading-3{
+    color: #ffffff;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 38px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 48px;
+  }
+  
+  .lorem-2{
+    color: #ffffff;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    padding-top: 20px
+  }
+  .btn:not(:disabled):not(.disabled){
+    cursor: pointer;
+    background: #1BBC9B;
+    border: 1px solid #1BBC9B;
+    color:#ffff;
+  }
+  @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&family=Secular+One&display=swap');
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.card-cunter {
+ 
+  color: white;
+  height: 100vh;
+  background: rgb(253, 45, 224);
+  background: linear-gradient(
+    90deg,
+    rgba(253, 45, 224, 1) 10%,
+    rgba(34, 193, 195, 1) 90%
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main {
+  overflow:auto;
+  height: auto;
+  width: 65vw;
+  border-radius: 12px;
+  padding: 5px;
+  background: rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  display: flex;
+  align-items: center;
+  text-align: left;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.col1 {
+  border-radius: 12px;
+  height: auto;
+  width: 250px;
+}
+.col2 {
+  border-radius: 12px;
+  height: auto;
+  width: 250px;
+}
+.model {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+.about-resort{
+    color:#ffff;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+.lorem-3{
+    color:#ffff;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    padding-top: 10px;
+}
+.card-button{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+.button-2nd{
+    background: #333333;
+}
+.restaurent{
+    background-color:#F6F6F6;
+}
+.heading-about{
+    text-align: center;
+    padding-top: 37px;
+}
+.about-restaurent{
+    color: #333333;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    letter-spacing: 1px;
+}
+.img-rs-text{
+    display: flex;
+    
+}
+.our-rt{
+    color: #333333;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 1px;
+    padding-left: 20px;
+}
+.lorem-100{
+    color: #666666;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.our-services-center{
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 29px
+}
+.our-heading{
+  color: #333333;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    letter-spacing: 1px;
+}
+.card-small{
+  padding: 20px 15px;
+  background-color:#c6bcbc47;
+  margin-bottom: 10px;
+}
+.Roof{
+  color: #333333;
+  font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 1px;
+  text-align: center;
+  padding-top: 10px;
+}
+.lorem-10{
+  color: #666666;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    padding-top: 10px;
+}
+.READ-MORE{
+  color: #1BBC9B;
+    text-decoration: none;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+@media screen and  (max-width: 992px){
+  .nav-item{
+    padding-left: 0px;
+  }
+  .collapse{
+    margin-left: 0px;
+   }
+}
